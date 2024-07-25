@@ -14,7 +14,7 @@ struct ContentView: View {
                 Color(red: 0.5, green: 0.7, blue: 0.8)
                     .ignoresSafeArea()
                 VStack() {
-                    Text("About Me!")
+                    Text("About Me")
                         .font(.largeTitle)
                         .fontWeight(.bold)
                     HStack {
